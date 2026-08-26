@@ -146,35 +146,29 @@ Completed an internship focused on **entrepreneurship, startup development and b
 
 ---
 
+
+<!-- ===================== CONNECT ===================== -->
+
 ## 🌐 Let's Connect
 
 <div align="center">
 
 <a href="mailto:sakshamsharma9927729250@gmail.com">
-<img src="https://img.shields.io/badge/Email-39FF14?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-39FF14?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/saksham-sharma-659a02397/">
-<img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Saksham%20Sharma-39FF14?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://www.kaggle.com/unknown2007">
-<img src="https://img.shields.io/badge/Kaggle-39FF14?style=for-the-badge&logo=kaggle&logoColor=white">
+<img src="https://img.shields.io/badge/Kaggle-unknown2007-39FF14?style=for-the-badge&logo=kaggle&logoColor=white">
 </a>
 
 <a href="https://github.com/sakshamsharma9927729250-beep">
-<img src="https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-Saksham%20Sharma-39FF14?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sakshamsharma9927729250-beep&label=Profile%20Views&color=39FF14&style=flat">
-
-### 💡 Building today. Learning every day. Creating for tomorrow.
-
-</div>
 ---
