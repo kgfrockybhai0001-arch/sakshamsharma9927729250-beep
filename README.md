@@ -36,21 +36,45 @@ I learn by building practical projects, exploring emerging technologies, partici
 
 ---
 
+
 ## ⚡ Tech Stack
 
-### Programming & Development
+### Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode">
+<img src="https://skillicons.dev/icons?i=python,c,sql" />
 </p>
 
-### AI & Data
+### Development & Tools
 
-`Artificial Intelligence` • `AI Agents` • `LLMs` • `Prompt Engineering` • `Data Analysis` • `Automation`
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-### Platforms & Tools
+### AI / Data
 
-`Kaggle` • `GitHub` • `ChatGPT` • `Gemini` • `Claude` • `GitHub Copilot`
+<p>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=googlebrain&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge&logo=openai&logoColor=white" />
+
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=googlegemini&logoColor=white" />
+
+<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge&logo=robotframework&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Data%20Analysis-111827?style=for-the-badge&logo=databricks&logoColor=white" />
+
+</p>
+
+### AI Platforms
+
+<p>
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+</p>
 
 ---
 
