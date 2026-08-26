@@ -18,9 +18,16 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a547-11eb-9e7f-608641bc9841.gif" width="100%">
 </p>
 
+<h1 align="center">Hi 👋, I'm Saksham Sharma</h1>
+<h3 align="center">Python Developer | AI Enthusiast | BCA (AI) Student</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vcenter=true&width=500&lines=Python+Developer;AI+%26+Machine+Learning+Explorer;Building+Real-World+Projects" alt="Typing SVG" />
+</p>
+
 ---
 
-### ⚡ About Me
+### 🚀 About Me
 
 ```python
 class Developer:
@@ -29,9 +36,22 @@ class Developer:
         self.role = "Python Developer & AI Engineer in Training"
         self.education = "BCA (Artificial Intelligence)"
         self.location = "India 🇮🇳"
-        self.current_focus = ["Advanced Python", "APIs", "AI Automation"]
-        
+        self.current_focus = ["Advanced Python", "APIs & Automation", "Machine Learning"]
+
     def get_goal(self):
         return "Build high-impact AI products that solve real-world problems."
 
 me = Developer()
+print(me.get_goal())
+
+me
+
+🛠️ Tech Stack
+###📊 GitHub Analytics
+
+📌 Top Featured Repositories
+🧮 Professional Calculator - Menu-driven Python calculator with modular architecture & robust error handling.
+
+💡 Smart Expense Tracker - Financial management system with JSON persistence.
+
+🛒 Shopping Cart System - Clean object-oriented Python implementation of an e-commerce cart.
