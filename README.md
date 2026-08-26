@@ -282,6 +282,7 @@ APIs & Backend
         ↓
 Advanced Software Development
 🛒 Shopping Cart System - Clean object-oriented Python implementation of an e-commerce cart.
+  ```
 
 <!-- ===================== GITHUB ACTIVITY ===================== -->
 
@@ -289,32 +290,19 @@ Advanced Software Development
 
 <div align="center">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=sakshamsharma9927729250-beep&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
-  width="49%"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=sakshamsharma9927729250-beep&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="49%">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamsharma9927729250-beep&layout=compact&theme=chartreuse-dark&hide_border=true"
-  width="41%"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamsharma9927729250-beep&layout=compact&theme=chartreuse-dark&hide_border=true" width="41%">
 
 <br><br>
 
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamsharma9927729250-beep&theme=dark&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14"
-  width="70%"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamsharma9927729250-beep&theme=dark&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14" width="70%">
 
 <br><br>
 
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamsharma9927729250-beep&bg_color=000000&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true"
-  width="95%"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamsharma9927729250-beep&bg_color=000000&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true" width="95%">
 
 </div>
-
 
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
@@ -322,13 +310,9 @@ Advanced Software Development
 
 <div align="center">
 
-<img 
-  src="https://raw.githubusercontent.com/sakshamsharma9927729250-beep/sakshamsharma9927729250-beep/output/github-contribution-grid-snake.svg"
-  alt="GitHub Contribution Snake"
-/>
+<img src="https://raw.githubusercontent.com/sakshamsharma9927729250-beep/sakshamsharma9927729250-beep/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 
 </div>
-
 
 <!-- ===================== DEVELOPER GOALS ===================== -->
 
@@ -343,7 +327,6 @@ Advanced Software Development
 - 💡 Build real-world solutions
 - 🚀 Grow as an independent developer
 
-
 <!-- ===================== CONNECT ===================== -->
 
 ## 🌐 Let's Connect
@@ -351,19 +334,40 @@ Advanced Software Development
 <div align="center">
 
 <a href="mailto:sakshamsharma9927729250@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-39FF14?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact%20Me-39FF14?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/saksham-sharma-659a02397/">
-<img src="https://img.shields.io/badge/LinkedIn-Saksham%20Sharma-39FF14?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Saksham%20Sharma-39FF14?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://www.kaggle.com/unknown2007">
-<img src="https://img.shields.io/badge/Kaggle-unknown2007-39FF14?style=for-the-badge&logo=kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaggle-unknown2007-39FF14?style=for-the-badge&logo=kaggle&logoColor=white">
 </a>
 
 <a href="https://github.com/sakshamsharma9927729250-beep">
-<img src="https://img.shields.io/badge/GitHub-Saksham%20Sharma-39FF14?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Saksham%20Sharma-39FF14?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
+
+---
+
+### 🟢 Ek aur important cheez
+
+Agar **sirf GitHub Stats image ke bajay poora `<div align="center">...` code text ke form me dikh raha hai**, to **100% check karo ki uske upar kahin ` ``` ` open nahi reh gaya**.
+
+README ka structure aisa hona chahiye:
+
+```text
+[Previous Section]
+
+## 📊 GitHub Activity
+
+<div align="center">
+...
+</div>
+
+## 🐍 Contribution Graph
+...
+ ```
